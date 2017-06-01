@@ -1,4 +1,4 @@
-# odooForChina9.0
+# odooForChina10.1
 #
 
 ubuntu
