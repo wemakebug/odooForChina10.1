@@ -33,6 +33,3 @@ vobject
 werkzeug
 xlsxwriter
 xlwt
-
-[SSL]
-pyopenssl
