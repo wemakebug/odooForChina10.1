@@ -1,13 +1,13 @@
 # odooForChina10.1
-#
+# ubuntu
 
-ubuntu
 ## 1、配置数据库
 
 ### 1）安装postgresql
 
-  选定版本大于9.0
-  命令：
+选定版本大于9.0
+命令：
+
 ```
 sudo apt install postgresql
 
@@ -48,6 +48,7 @@ sudo apt install nodejs-legacy
 ## 3、正确的打开方式
 
 `python setup.py build`
+
 `python setup.py install`
 
 ## 4、其他的的东西懒得写，自己总结去吧
