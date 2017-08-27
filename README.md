@@ -35,7 +35,7 @@ sudo apt install postgresql-server-dev-9.5
 进入root用户
 到目录 odoo.egg-info/下执行一下命令：
 
-`pip install -r requires.txt`
+`pip install -r requires.txt -i https://pypi.douban.com/simple`
 
 ## 2、安装这个东东
 
