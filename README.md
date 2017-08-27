@@ -64,4 +64,5 @@ sudo apt install nodejs-legacy
 
 补充：
 [nginx + uwsgi部署odoo服务](https://suadminwen.github.io/nginx-+-uwsgi%E9%83%A8%E7%BD%B2odoo%E6%9C%8D%E5%8A%A1)
+
 [nginx+uwsgi实现负载均衡](https://suadminwen.github.io/nginx+uwsgi%E5%AE%9E%E7%8E%B0%E8%B4%9F%E8%BD%BD%E5%9D%87%E8%A1%A1)
